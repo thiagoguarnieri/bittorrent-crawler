@@ -14,6 +14,7 @@ python crawler.py
 
 Folder structure
 crawler.py
+
 |--- database (geolite files)
 
 |--- downloaded (downloaded torrent chunks)
