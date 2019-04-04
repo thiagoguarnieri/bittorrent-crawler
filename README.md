@@ -14,12 +14,8 @@ python crawler.py
 
 Folder structure
 crawler.py
-
 |--- database (geolite files)
-
 |--- downloaded (downloaded torrent chunks)
-
 |--- logs (data from the swarm)
-
 |--- torrent (torrent files)
 
