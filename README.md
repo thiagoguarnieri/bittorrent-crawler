@@ -7,8 +7,15 @@ sudo apt-get install python-libtorrent
 sudo apt-get install python-pip
 pip install geoip2
 
+Free geolite databases at https://dev.maxmind.com/geoip/geoip2/geolite2/
+
 Calling
 python crawler.py
 
 Folder structure
+crawler.py
+|--- database (geolite files)
+|--- downloaded (downloaded torrent chunks)
+|--- logs (data from the swarm)
+|--- torrent (torrent files)
 
